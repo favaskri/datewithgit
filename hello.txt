@@ -2,8 +2,11 @@ Hello my name is favas
 Today i took leave
 
 I want to make a change in this file..
-
-
-No is an automatic call..
-
 this is calling Mr. Suresh
+
+
+Hello,
+
+We are confirming that your Kindle Unlimited membership will not renew. At the end of your membership period, your Kindle Unlimited membership will not continue and you will no longer have access to your Kindle Unlimited titles.
+
+If you would like to continue to enjoy access to Kindle Unlimited, click the button below to continue your membership.
